@@ -1,6 +1,6 @@
 # Xylophone 🎹
 
-I made a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
+I made a music app that plays Xylophone sounds. Each button has a different color and sound. You can make music of your own
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
 
